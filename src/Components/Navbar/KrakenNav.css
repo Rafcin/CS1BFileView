@@ -1,0 +1,15 @@
+.krakenNavbar{
+    background-color: #0064A4 !important;
+}
+.krakenNav{
+    color: white !important;
+}
+.krakenNavLink{
+    color: white !important;
+}
+.krakenNavLogo{
+    filter: invert(64%) sepia(98%) saturate(439%) hue-rotate(2deg) brightness(107%) contrast(107%);
+}
+.krakenNavToggle{
+    filter: brightness(0) invert(1);
+}
